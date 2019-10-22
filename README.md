@@ -1,0 +1,3 @@
+# payPlatform
+多线程安全实现简单的支付平台
+1、分别创建buyer和seller两个类实现Runnable接口,重写run方法，run方法包含具体的
